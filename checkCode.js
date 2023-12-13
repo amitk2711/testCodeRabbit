@@ -6,3 +6,11 @@ function myStopFunction() {
 
 // abc testing
 console.log("hello")
+
+
+function add (a,b){
+  return a + b;
+}
+
+const password =  add(1,2)
+console.log("my password is this", password)
